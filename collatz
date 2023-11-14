@@ -1,5 +1,5 @@
 """
-This is my solution to a simple challenge from the book "Automate the boring stuff with Python" by Al Sweigart. 
+This is my solution to a simple challenge from the book "Automate the boring stuff with Python" by Al Sweigart. It calculates and then prints every step in a collatz sequence, from any input-number.  
 """
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
